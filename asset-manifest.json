@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/PaginationExercise/static/css/main.65791fab.css",
+    "main.js": "/PaginationExercise/static/js/main.e58d64d8.js",
+    "index.html": "/PaginationExercise/index.html",
+    "main.65791fab.css.map": "/PaginationExercise/static/css/main.65791fab.css.map",
+    "main.e58d64d8.js.map": "/PaginationExercise/static/js/main.e58d64d8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65791fab.css",
+    "static/js/main.e58d64d8.js"
+  ]
+}
